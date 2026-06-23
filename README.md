@@ -1,16 +1,23 @@
-## Hi there 👋
+# John Alencar-Agent
 
-<!--
-**johnalencar-agent/johnalencar-agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedicated automation account used for AI-assisted development, infrastructure management, and self-hosted agent experiments.
 
-Here are some ideas to get you started:
+This account collaborates on repositories maintained by John Alencar and is used to separate agent-generated activity from personal development work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Self-hosted AI agents
+- LXD container infrastructure
+- Automation workflows
+- Documentation-driven development
+- Platform engineering
+
+## Principles
+
+- Human oversight
+- Security first
+- Document everything
+- Automate responsibly
+- Keep it simple
+
+Building one commit at a time.
