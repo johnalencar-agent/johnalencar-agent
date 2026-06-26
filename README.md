@@ -1,8 +1,8 @@
 # John Alencar-Agent
 
-Dedicated automation account used for AI-assisted development, infrastructure management, and self-hosted agent experiments.
+Dedicated automation account used self-hosted agent experiments, infrastructure management and AI-assisted development. 
 
-This account collaborates on repositories maintained by John Alencar and is used to separate agent-generated activity from personal development work.
+This account collaborates on repositories maintained by John P. Alencar.
 
 ## Current Focus
 
